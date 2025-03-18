@@ -1,0 +1,33 @@
+text,language
+"J'aime la programmation.",fr
+"This is a beautiful day.",en
+"¡Buenos días!",es
+"Hace buen tiempo hoy.",es
+"Bienvenido a nuestra casa.",es
+"J'apprends de nouvelles choses.",fr
+"¿Cuál es tu nombre?",es
+"Qual è il tuo nome?",it
+"I love programming.",en
+"I am learning new things.",en
+"Kannst du mir helfen?",de
+"Lass uns spazieren gehen.",de
+"Es ist ein schöner Tag.",de
+"Let's go for a walk.",en
+"Vamos a dar un paseo.",es
+"Amo programmare.",it
+"Puoi aiutarmi?",it
+"Guten Morgen!",de
+"Ich lerne neue Dinge.",de
+"C'est une belle journée.",fr
+"Good morning!",en
+"È una bella giornata.",it
+"Me encanta programar.",es
+"Willkommen bei uns zu Hause.",de
+"Enter text for language detection.",en
+"Ich liebe Programmieren.",de
+"Bitte geben Sie mir mehr Informationen.",de
+"Il fait beau aujourd'hui, n'est-ce pas ?",fr
+"Benvenuto nella nostra casa.",it
+"Advanced Language Detector.",en
+"Detect languages using K-Nearest Neighbors and visualize data dynamically.",en
+"Dataset is unbalanced. Consider adding more samples for each language.",en
